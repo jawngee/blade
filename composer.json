@@ -23,8 +23,8 @@
     },
     "autoload": {
         "psr-4": {
-            "jawngee\\Laravel\\": "src/",
-            "jawngee\\LaravelTests\\": "tests/"
+            "duncan3dc\\Laravel\\": "src/",
+            "duncan3dc\\LaravelTests\\": "tests/"
         }
     }
 }
